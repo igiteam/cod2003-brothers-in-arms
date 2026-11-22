@@ -22,31 +22,33 @@ A total conversion project in Call of Duty 2003 remaking Brothers in Arms Road t
 ## Reference links
 [https://www.moddb.com/games/call-of-duty/mods](https://www.moddb.com/games/call-of-duty/mods)
 
-![AI sample level](https://media.moddb.com/cache/images/downloads/1/274/273164/crop_120x90/AI_sample_level.png)
+[![AI sample level](https://media.moddb.com/cache/images/downloads/1/274/273164/crop_120x90/AI_sample_level.png)](https://www.moddb.com/games/call-of-duty/downloads/ai-sample-level "AI sample level")
 
-![Search and Destroy sample level](https://media.moddb.com/cache/images/downloads/1/274/273148/crop_120x90/wyatt.png)
+[![Search and Destroy sample level](https://media.moddb.com/cache/images/downloads/1/274/273148/crop_120x90/wyatt.png)](https://www.moddb.com/games/call-of-duty/downloads/search-and-destroy-sample-level "Search and Destroy sample level")
 
-![BSP Decompiler](https://media.moddb.com/cache/images/downloads/1/274/273132/crop_120x90/BSP.png)
+[![BSP Decompiler](https://media.moddb.com/cache/images/downloads/1/274/273132/crop_120x90/BSP.png)](https://www.moddb.com/games/call-of-duty/downloads/bsp-decompiler "BSP Decompiler")
 
-![Terrain: Blending sample file](https://media.moddb.com/cache/images/downloads/1/274/273064/crop_120x90/11.jpg)
+[![Terrain: Blending sample file](https://media.moddb.com/cache/images/downloads/1/274/273064/crop_120x90/11.jpg)](https://www.moddb.com/games/call-of-duty/downloads/terrain-blending-sample-file "Terrain: Blending sample file")
 
-![Door tutorial sample level](https://media.moddb.com/cache/images/downloads/1/274/273025/crop_120x90/1.jpg)
+[![Door tutorial sample level](https://media.moddb.com/cache/images/downloads/1/274/273025/crop_120x90/1.jpg)](https://www.moddb.com/games/call-of-duty/downloads/door-tutorial-sample-level "Door tutorial sample level")
 
-![Levelshots tutorial sample file](https://media.moddb.com/cache/images/downloads/1/274/273019/crop_120x90/maxresdefault.jpg)
+[![Levelshots tutorial sample file](https://media.moddb.com/cache/images/downloads/1/274/273019/crop_120x90/maxresdefault.jpg)](https://www.moddb.com/games/call-of-duty/downloads/levelshots-tutorial-sample-file "Levelshots tutorial sample file")
 
-![Call of Duty - Weapon File Editor v.6](https://media.moddb.com/cache/images/downloads/1/274/273012/crop_120x90/Weapon.jpg)
+[![Call of Duty - Weapon File Editor v.6](https://media.moddb.com/cache/images/downloads/1/274/273012/crop_120x90/Weapon.jpg)](https://www.moddb.com/games/call-of-duty/downloads/call-of-duty-weapon-file-editor-v6 "Call of Duty - Weapon File Editor v.6")
 
-![Call of Duty 1 Milkshape plugins](https://media.moddb.com/cache/images/downloads/1/274/273009/crop_120x90/dw81me-0934e88d-2de4-460d-a7c3-c.png)
+[![Call of Duty 1 Milkshape plugins](https://media.moddb.com/cache/images/downloads/1/274/273009/crop_120x90/dw81me-0934e88d-2de4-460d-a7c3-c.png)](https://www.moddb.com/games/call-of-duty/downloads/call-of-duty-1-milkshape-plugins "Call of Duty 1 Milkshape plugins")
 
-![Skyfix](https://media.moddb.com/cache/images/downloads/1/273/272952/crop_120x90/Skyfix.png)
+[![Skyfix](https://media.moddb.com/cache/images/downloads/1/273/272952/crop_120x90/Skyfix.png)](https://www.moddb.com/games/call-of-duty/downloads/skyfix "Skyfix")
 
-![Exodus Gaming Tools Map FX/GSC Editor](https://media.moddb.com/cache/images/downloads/1/273/272948/crop_120x90/53809_2.jpg)
+[![Exodus Gaming Tools Map FX/GSC Editor](https://media.moddb.com/cache/images/downloads/1/273/272948/crop_120x90/53809_2.jpg)](https://www.moddb.com/games/call-of-duty/downloads/exodus-gaming-tools-map-fxgsc-editor "Exodus Gaming Tools Map FX/GSC Editor")
 
-![Single player tutorials map sources](https://media.moddb.com/cache/images/downloads/1/273/272947/crop_120x90/call-of-duty-single-player-demo-.png)
+[![Single player tutorials map sources](https://media.moddb.com/cache/images/downloads/1/273/272947/crop_120x90/call-of-duty-single-player-demo-.png)](https://www.moddb.com/games/call-of-duty/downloads/single-player-tutorials-map-sources "Single player tutorials map sources")
 
-![CoDpiler](https://media.moddb.com/cache/images/downloads/1/273/272910/crop_120x90/mp_wreck.png)
+[![CoDpiler](https://media.moddb.com/cache/images/downloads/1/273/272910/crop_120x90/mp_wreck.png)](https://www.moddb.com/games/call-of-duty/downloads/codpiler "CoDpiler")
 
-![CoD ScriptEd](https://media.moddb.com/cache/images/downloads/1/273/272902/crop_120x90/500px-CoDSP_Thompson_M1A1_reload.jpg)
+[![CoD ScriptEd](https://media.moddb.com/cache/images/downloads/1/273/272902/crop_120x90/500px-CoDSP_Thompson_M1A1_reload.jpg)](https://www.moddb.com/games/call-of-duty/downloads/cod-scripted "CoD ScriptEd")
+
+
 
 
 # Call of Duty Collection
