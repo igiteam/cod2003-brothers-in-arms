@@ -19,6 +19,35 @@ A total conversion project in Call of Duty 2003 remaking Brothers in Arms Road t
 
 [![Wine Windows games on macOS](https://raw.githubusercontent.com/igiteam/igi1-macbook-3d-workstation/refs/heads/main/wine-engine-config.png)](https://github.com/igiteam/wine_engines)
 
+## Reference links
+[https://www.moddb.com/games/call-of-duty/mods](https://www.moddb.com/games/call-of-duty/mods)
+
+![AI sample level](https://media.moddb.com/cache/images/downloads/1/274/273164/crop_120x90/AI_sample_level.png)
+
+![Search and Destroy sample level](https://media.moddb.com/cache/images/downloads/1/274/273148/crop_120x90/wyatt.png)
+
+![BSP Decompiler](https://media.moddb.com/cache/images/downloads/1/274/273132/crop_120x90/BSP.png)
+
+![Terrain: Blending sample file](https://media.moddb.com/cache/images/downloads/1/274/273064/crop_120x90/11.jpg)
+
+![Door tutorial sample level](https://media.moddb.com/cache/images/downloads/1/274/273025/crop_120x90/1.jpg)
+
+![Levelshots tutorial sample file](https://media.moddb.com/cache/images/downloads/1/274/273019/crop_120x90/maxresdefault.jpg)
+
+![Call of Duty - Weapon File Editor v.6](https://media.moddb.com/cache/images/downloads/1/274/273012/crop_120x90/Weapon.jpg)
+
+![Call of Duty 1 Milkshape plugins](https://media.moddb.com/cache/images/downloads/1/274/273009/crop_120x90/dw81me-0934e88d-2de4-460d-a7c3-c.png)
+
+![Skyfix](https://media.moddb.com/cache/images/downloads/1/273/272952/crop_120x90/Skyfix.png)
+
+![Exodus Gaming Tools Map FX/GSC Editor](https://media.moddb.com/cache/images/downloads/1/273/272948/crop_120x90/53809_2.jpg)
+
+![Single player tutorials map sources](https://media.moddb.com/cache/images/downloads/1/273/272947/crop_120x90/call-of-duty-single-player-demo-.png)
+
+![CoDpiler](https://media.moddb.com/cache/images/downloads/1/273/272910/crop_120x90/mp_wreck.png)
+
+![CoD ScriptEd](https://media.moddb.com/cache/images/downloads/1/273/272902/crop_120x90/500px-CoDSP_Thompson_M1A1_reload.jpg)
+
 
 # Call of Duty Collection
 [![Call of Duty](https://cdn.mobygames.com/covers/4083905-call-of-duty-windows-front-cover.jpg)](https://archive.org/details/CallOfDutyUSAEurope)
