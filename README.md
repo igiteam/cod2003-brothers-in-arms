@@ -9,9 +9,9 @@ A total conversion project in Call of Duty 2003 remaking Brothers in Arms Road t
 [https://api.github.com/repos/igiteam/cod2003-brothers-in-arms/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/cod2003-brothers-in-arms/git/trees/main?recursive=1)
 
 ## Call Of Duty 2003 — the base of the gameplay
-[![CALL OF DUTY 1 Gameplay Walkthrough Campaign FULL GAME [4K 60FPS PS3] - No Commentary](https://img.youtube.com/vi/SjKe88xMZTg/maxresdefault.jpg)](https://ytembed.macosxjs.com/?U2pLZTg4eE1aVGc)
+[![CALL OF DUTY 1](https://img.youtube.com/vi/SjKe88xMZTg/maxresdefault.jpg)](https://ytembed.macosxjs.com/?U2pLZTg4eE1aVGc)
 
-[![Brothers In Arms Earned In Blood WII ( 2008 )](https://img.youtube.com/vi/aTJ_GOLWgwY/maxresdefault.jpg)](https://ytembed.macosxjs.com/?YVRKX0dPTFdnd1k)
+[![Brothers In Arms Earned In Blood WII](https://img.youtube.com/vi/aTJ_GOLWgwY/maxresdefault.jpg)](https://ytembed.macosxjs.com/?YVRKX0dPTFdnd1k)
 
 ## WS11WineCX20.0.4 (macOS Big Sur 32-bit)
 
