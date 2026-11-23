@@ -172,6 +172,9 @@ terms. Those notices are kept alongside the relevant material, especially under
 [`code/thirdparty/`](code/thirdparty/).
 
 
+Original *Call of Duty* game assets, packs, and other proprietary content are
+not included and remain the property of their respective rightsholders.
+
 
 ## Dev Environment
 
@@ -207,6 +210,3 @@ terms. Those notices are kept alongside the relevant material, especially under
 
 ---
 
-
-Original *Call of Duty* game assets, packs, and other proprietary content are
-not included and remain the property of their respective rightsholders.
