@@ -1,12 +1,12 @@
-# cod2003-brothers-in-arms
+# cod2003-brothers-in-arms-wii
 ## Call Of Duty 2003 — Brothers in Arms Remake
 A total conversion project in Call of Duty 2003 remaking Brothers in Arms Road to Hill 30, Brothers in Arms Earned in Blood games in Call of Duty 2003 idtech3 engine.
 
 ## GitHub Treeview
-[https://treegit.macosxjs.com/?url=igiteam/cod2003-brothers-in-arms](https://treegit.macosxjs.com/?url=igiteam/cod2003-brothers-in-arms)
+[https://treegit.macosxjs.com/?url=igiteam/cod2003-brothers-in-arms-wii](https://treegit.macosxjs.com/?url=igiteam/cod2003-brothers-in-arms-wii)
 
 ## GitHub Tree API (Direct JSON)
-[https://api.github.com/repos/igiteam/cod2003-brothers-in-arms/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/cod2003-brothers-in-arms/git/trees/main?recursive=1)
+[https://api.github.com/repos/igiteam/cod2003-brothers-in-arms-wii/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/cod2003-brothers-in-arms-wii/git/trees/main?recursive=1)
 
 ## Call Of Duty 2003 — the base of the gameplay
 [![CALL OF DUTY 1](https://i.ytimg.com/vi/ZLdsGmaAZhQ/sddefault.jpg)](https://ytembed.macosxjs.com/?U2pLZTg4eE1aVGc)
