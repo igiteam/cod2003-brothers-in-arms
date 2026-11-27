@@ -22,6 +22,10 @@ A total conversion project in Call of Duty 2003 remaking Brothers in Arms Road t
 ## Reference links
 [https://www.moddb.com/games/call-of-duty/mods](https://www.moddb.com/games/call-of-duty/mods)
 
+[https://www.mediafire.com/file/1wlh7zjys6p986l/UO2ktexturesv1.rar/file](https://www.mediafire.com/file/1wlh7zjys6p986l/UO2ktexturesv1.rar/file)
+
+[https://www.mediafire.com/file/1ktq6npki9yc1kw/CoD2kTextures.rar/file](https://www.mediafire.com/file/1ktq6npki9yc1kw/CoD2kTextures.rar/file)
+
 [![AI sample level](https://media.moddb.com/cache/images/downloads/1/274/273164/thumb_620x2000/AI_sample_level.png)](https://www.moddb.com/games/call-of-duty/downloads/ai-sample-level "AI sample level")
 
 [![Search and Destroy sample level](https://media.moddb.com/cache/images/downloads/1/274/273148/thumb_620x2000/wyatt.png)](https://www.moddb.com/games/call-of-duty/downloads/search-and-destroy-sample-level "Search and Destroy sample level")
